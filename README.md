@@ -44,5 +44,5 @@
             •	Range (int Km) 
             •	Efficiency (Watt-hour per km) 
             •	Fast Charge 
-            ![image](https://user-images.githubusercontent.com/87428729/181827630-4033a861-24de-4d55-acc5-9ee90c71e3b8.png)
+            
 
