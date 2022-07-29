@@ -22,4 +22,8 @@
        We have to then come up with a feasible strategy to enter the market, targeting the segments most likely to use Electric vehicles. 
 
 **Fermi Estimation** 
-      The main task is to find out the vehicle space in which the EV startup will develop its products.For this, we use a dataset which has the preferred car characteristics of the customers in the market. As we are using the preferences and interests of the customers and also considering the frequency of purchase (as it is selling well in the market) and amount spent on purchasing, we can say that the segmentation criterion is psychographic and behavioural segmentation. And we use machine learning algorithms for segmentation of the dataset, after we have done with profiling it, we can then find the most optimal market segments to open in the markets.
+      
+      The main task is to find out the vehicle space in which the EV startup will develop its products.
+      For this, we use a dataset which has the preferred car characteristics of the customers in the market. 
+      As we are using the preferences and interests of the customers and also considering the frequency of purchase (as it is selling well in the market) and amount spent on purchasing, we can say that the segmentation criterion is psychographic and behavioural segmentation. 
+      And we use machine learning algorithms for segmentation of the dataset, after we have done with profiling it, we can then find the most optimal market segments to open in the markets.
