@@ -27,3 +27,22 @@
       For this, we use a dataset which has the preferred car characteristics of the customers in the market. 
       As we are using the preferences and interests of the customers and also considering the frequency of purchase (as it is selling well in the market) and amount spent on purchasing, we can say that the segmentation criterion is psychographic and behavioural segmentation. 
       And we use machine learning algorithms for segmentation of the dataset, after we have done with profiling it, we can then find the most optimal market segments to open in the markets.
+
+**Data Sources**
+    
+     We have selected a dataset with instances of most popular cars in the market.
+     we have selected it because considering the characteristics of best-selling cars in the market implies the preferences and interests of the people,
+     that is, if the cars of such and such characteristics are selling widely it means that it is much preferred by the customers. 
+     We can make the model of our electric car according to the preferences of the customers in the market segment.
+     So, basically the segmentation criterion for the market segment analysis is psychographic (because of the preferences of the customers) and behavioural segmentation (because the best-selling electric cars (frequency) and amount spent on purchasing). 
+     We made sure that there are enough instances in the dataset, so that there are enough instances in each segment after performing segmentation.  
+     We have chosen dataset with 14 attributes considering characteristics of the best-selling cars in the market, the attributes are: 
+            •	Brand 
+            •	Model 
+            •	Acceleration per sec 
+            •	Top Speed 
+            •	Range (int Km) 
+            •	Efficiency (Watt-hour per km) 
+            •	Fast Charge 
+            ![image](https://user-images.githubusercontent.com/87428729/181827630-4033a861-24de-4d55-acc5-9ee90c71e3b8.png)
+
